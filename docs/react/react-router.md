@@ -142,9 +142,32 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    // 
+    //
     <Navbar />
     <RouterProvider router={router} />
   </React.StrictMode>
 );
+```
+
+### 父層如何取得子層的 path param
+
+- useParams 不能在頂層使用
+- 用一個 component 包起來，再 return
+
+```javascript
+const PaletteWrapper = () => {
+  const { id } = useParams();
+  return <Palette palette={generatePalette(findPalette(id))} />;
+};
+...
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <h1>Palette</h1>,
+  },
+  {
+    path: '/palette/:id',
+    element: <PaletteWrapper />,
+  },
+]);
 ```

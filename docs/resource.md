@@ -1,6 +1,24 @@
 # Resource
 
-## 開發
+## Color App 用到的工具
+
+- Matiral UI
+- chroma.js 關於色彩的
+- Emoji Mart
+- react-sortable-hot 拖曳
+- React.PureComponent
+- react-form-validator-core
+- react-transition-group 頁面轉場
+- JSS 在 JS 寫 CSS
+
+| 名稱                    | 網址                                                  | 備註     |
+| :---------------------- | :---------------------------------------------------- | :------- |
+| react-copy-to-clipboard | https://www.npmjs.com/package/react-copy-to-clipboard | 拷貝功能 |
+| rc-slider               | https://www.npmjs.com/package/rc-slider               | 滑塊     |
+| Material UI             | https://mui.com/                                      | React UI |
+| PrimeReact              | https://primereact.org/                               | React UI |
+
+## 線上開發平台
 
 | 名稱        | 網址                                             | 備註               |
 | :---------- | :----------------------------------------------- | :----------------- |
@@ -12,9 +30,10 @@
 | :------------ | :------------------------------ | :----- |
 | Deck of Cards | https://www.deckofcardsapi.com/ | 撲克牌 |
 | dad joke      | https://icanhazdadjoke.com/     | 笑話   |
+
 ## Ai
 
-| 名稱          | 網址                            | 備註   |
-| :------------ | :------------------------------ | :----- |
-| DataRobot | https://www.datarobot.com/ | Ai平台 |
-| ChatGPT | https://chat.openai.com/chat | Ai聊天機器人 |
+| 名稱      | 網址                         | 備註          |
+| :-------- | :--------------------------- | :------------ |
+| DataRobot | https://www.datarobot.com/   | Ai 平台       |
+| ChatGPT   | https://chat.openai.com/chat | Ai 聊天機器人 |
