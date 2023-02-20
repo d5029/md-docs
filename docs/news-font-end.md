@@ -25,3 +25,9 @@ Static Site 很適合內容較少更新的網站, 例子有Blog, 中小企公司
 - [Jekyll](https://jekyllrb.com/)
 - [Hugo](https://gohugo.io/)
 - [11ty](https://www.11ty.dev/)
+## Refactoring UI
+Tailwindcss 作者的著作，裡面用非常淺顯易懂的案例跟圖示教導你如何設計 UI
+- [官網](https://www.refactoringui.com/)
+- [官方video教學](https://www.youtube.com/playlist?list=PLDVpvW8ghDr9tasku_YvuTy_l0xPUtOHE)
+- [官方文章](https://medium.com/@refactoringui)
+- [網友的讀書摘要](https://ihower.tw/blog/archives/10556)
