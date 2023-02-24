@@ -37,3 +37,4 @@
 | :-------- | :--------------------------- | :------------ |
 | DataRobot | https://www.datarobot.com/   | Ai 平台       |
 | ChatGPT   | https://chat.openai.com/chat | Ai 聊天機器人 |
+| ShareGPT   | https://sharegpt.com/ | 分享GPT的內容 |
