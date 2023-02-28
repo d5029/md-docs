@@ -110,7 +110,7 @@ class NumberItem extends Component {
 
 ### 命名約定
 
-- parent/child 函數傳遞的命名淺規則，
+- parent/child 函式傳遞的命名淺規則，
 - 為保持一致性，建議遵循`action`/`handleAction`模式。
   - 在父層，function 給一個與動作相對應的名稱，如：`remove`, `add`, `open`, `toggle`等。
   - 在子層，接受來自父層傳遞的函式，使用 handle+動作來命名，如`handleRemove`, `handleAdd`, `handleOpen`, `handleToggle`等。

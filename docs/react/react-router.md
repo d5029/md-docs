@@ -171,3 +171,19 @@ const router = createBrowserRouter([
   },
 ]);
 ```
+
+### useNavigate()
+
+導到別的頁面
+
+```javascript
+import { useNavigate } from 'react-router-dom';
+
+function MyButton() {
+  let navigate = useNavigate();
+  function handleClick() {
+    navigate('/home');
+  }
+  return <button onClick={handleClick}>Submit</button>;
+}
+```
