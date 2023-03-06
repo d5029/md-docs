@@ -21,6 +21,7 @@
 | react-beautiful-dnd                        | https://github.com/atlassian/react-beautiful-dnd              | 拖曳功能           |
 | react-sortable-hoc                         | https://github.com/clauderic/react-sortable-hoc               | 拖曳功能           |
 | Emoji Mart                                 | https://github.com/missive/emoji-mart                         | emoji              |
+| React Transition Group                     | https://reactcommunity.org/react-transition-group/            | react 轉場         |
 | PrimeReact                                 | https://primereact.org/                                       | React UI           |
 
 ## 線上開發平台
@@ -45,10 +46,11 @@
 
 ## 可用來做練習的 API
 
-| 名稱          | 網址                            | 備註   |
-| :------------ | :------------------------------ | :----- |
-| Deck of Cards | https://www.deckofcardsapi.com/ | 撲克牌 |
-| dad joke      | https://icanhazdadjoke.com/     | 笑話   |
+| 名稱              | 網址                            | 備註     |
+| :---------------- | :------------------------------ | :------- |
+| Deck of Cards     | https://www.deckofcardsapi.com/ | 撲克牌   |
+| dad joke          | https://icanhazdadjoke.com/     | 笑話     |
+| The Star Wars API | https://swapi.dev/              | 星際大戰 |
 
 ## Ai
 
